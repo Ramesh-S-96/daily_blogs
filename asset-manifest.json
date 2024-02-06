@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ramesh-S-96/daily_blogs.git/static/css/main.da1deb4f.css",
-    "main.js": "/Ramesh-S-96/daily_blogs.git/static/js/main.b64d7d39.js",
+    "main.css": "/Ramesh-S-96/daily_blogs.git/static/css/main.04b013e4.css",
+    "main.js": "/Ramesh-S-96/daily_blogs.git/static/js/main.97e278a3.js",
     "static/js/592.7f72a991.chunk.js": "/Ramesh-S-96/daily_blogs.git/static/js/592.7f72a991.chunk.js",
     "static/media/banner.jpg": "/Ramesh-S-96/daily_blogs.git/static/media/banner.13c4853e6e1380e3cd5f.jpg",
     "static/media/quiz.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/quiz.9da7ffe0bbe04482c192.jpeg",
     "static/media/jquery.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/jquery.2bcc4e340e7c18ae50a1.jpeg",
     "static/media/uix.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/uix.eb8aa5a1579be2c62c3b.jpeg",
     "index.html": "/Ramesh-S-96/daily_blogs.git/index.html",
-    "main.da1deb4f.css.map": "/Ramesh-S-96/daily_blogs.git/static/css/main.da1deb4f.css.map",
-    "main.b64d7d39.js.map": "/Ramesh-S-96/daily_blogs.git/static/js/main.b64d7d39.js.map",
+    "main.04b013e4.css.map": "/Ramesh-S-96/daily_blogs.git/static/css/main.04b013e4.css.map",
+    "main.97e278a3.js.map": "/Ramesh-S-96/daily_blogs.git/static/js/main.97e278a3.js.map",
     "592.7f72a991.chunk.js.map": "/Ramesh-S-96/daily_blogs.git/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da1deb4f.css",
-    "static/js/main.b64d7d39.js"
+    "static/css/main.04b013e4.css",
+    "static/js/main.97e278a3.js"
   ]
 }
