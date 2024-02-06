@@ -1,5 +1,5 @@
 import '../css/index.css';
-import '../scripts/App.test.js';
+import '../App.test';
 
 function Footer() {
     return (

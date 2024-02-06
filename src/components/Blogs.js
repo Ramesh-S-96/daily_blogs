@@ -1,5 +1,5 @@
 import '../css/index.css';
-import '../scripts/App.test.js';
+import '../App.test';
 import quiz from '../images/quiz.jpeg';
 import uix from '../images/uix.jpeg';
 import jquery from '../images/jquery.jpeg';

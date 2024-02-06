@@ -1,7 +1,7 @@
 import headerlogo from '../images/kryp.png';
-import '../css/App.css';
+import '../App.css';
 import '../css/index.css';
-import './App.test.js';
+import '../App.test';
 
 
 function Header() {
