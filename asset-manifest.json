@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ramesh-S-96/daily_blogs.git/static/css/main.04b013e4.css",
-    "main.js": "/Ramesh-S-96/daily_blogs.git/static/js/main.f61ef644.js",
-    "static/js/592.7f72a991.chunk.js": "/Ramesh-S-96/daily_blogs.git/static/js/592.7f72a991.chunk.js",
-    "static/media/banner.jpg": "/Ramesh-S-96/daily_blogs.git/static/media/banner.13c4853e6e1380e3cd5f.jpg",
-    "static/media/quiz.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/quiz.9da7ffe0bbe04482c192.jpeg",
-    "static/media/jquery.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/jquery.2bcc4e340e7c18ae50a1.jpeg",
-    "static/media/uix.jpeg": "/Ramesh-S-96/daily_blogs.git/static/media/uix.eb8aa5a1579be2c62c3b.jpeg",
-    "index.html": "/Ramesh-S-96/daily_blogs.git/index.html",
-    "main.04b013e4.css.map": "/Ramesh-S-96/daily_blogs.git/static/css/main.04b013e4.css.map",
-    "main.f61ef644.js.map": "/Ramesh-S-96/daily_blogs.git/static/js/main.f61ef644.js.map",
-    "592.7f72a991.chunk.js.map": "/Ramesh-S-96/daily_blogs.git/static/js/592.7f72a991.chunk.js.map"
+    "main.css": "/daily_blogs/static/css/main.04b013e4.css",
+    "main.js": "/daily_blogs/static/js/main.8b1700b8.js",
+    "static/js/592.7f72a991.chunk.js": "/daily_blogs/static/js/592.7f72a991.chunk.js",
+    "static/media/banner.jpg": "/daily_blogs/static/media/banner.13c4853e6e1380e3cd5f.jpg",
+    "static/media/quiz.jpeg": "/daily_blogs/static/media/quiz.9da7ffe0bbe04482c192.jpeg",
+    "static/media/jquery.jpeg": "/daily_blogs/static/media/jquery.2bcc4e340e7c18ae50a1.jpeg",
+    "static/media/uix.jpeg": "/daily_blogs/static/media/uix.eb8aa5a1579be2c62c3b.jpeg",
+    "index.html": "/daily_blogs/index.html",
+    "main.04b013e4.css.map": "/daily_blogs/static/css/main.04b013e4.css.map",
+    "main.8b1700b8.js.map": "/daily_blogs/static/js/main.8b1700b8.js.map",
+    "592.7f72a991.chunk.js.map": "/daily_blogs/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04b013e4.css",
-    "static/js/main.f61ef644.js"
+    "static/js/main.8b1700b8.js"
   ]
 }
